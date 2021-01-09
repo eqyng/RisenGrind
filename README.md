@@ -1,5 +1,5 @@
 # Rise & Grind
-*for the early birds on the work grind with the coffee grind
+**for the early birds on the work grind with the coffee grind**
 
 i.e. if you ever need a Sydney cafe to do your thing at but don't know where
 
