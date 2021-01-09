@@ -1,5 +1,5 @@
 # Rise & Grind 🦜🦉
-i.e. if you ever need a Sydney cafe to do your thing at but don't know where 
+if you're an early bird or a night owl and you need a Sydney cafe to do your thing at but don't know where 
 
 Based on criteria of: 
 * table rent 
