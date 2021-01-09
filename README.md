@@ -1,5 +1,5 @@
-# Rise & Grind 
-🦜 i.e. if you ever need a Sydney cafe to do your thing at but don't know where 🦉
+# Rise & Grind 🦜🦉
+i.e. if you ever need a Sydney cafe to do your thing at but don't know where 
 
 Based on criteria of: 
 * table rent 
